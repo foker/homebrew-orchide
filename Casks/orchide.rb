@@ -1,6 +1,6 @@
 cask "orchide" do
-  version "0.1.1"
-  sha256 "03b15d2db59c88042460b53bb842340f33868318d6673a8bbdc1a61678e57839"
+  version "0.1.2"
+  sha256 "5bb2cd6f6e27e7a8bd8ab5adbfad1fadf89f21d4b6e100160c22dc936098718a"
 
   url "https://github.com/foker/orch-ide/releases/download/v#{version}/OrchIDE-#{version}-arm64.zip"
   name "OrchIDE"
